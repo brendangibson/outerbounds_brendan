@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.a63004a2.chunk.js",
-    "main.js.map": "/static/js/main.a63004a2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.160a5205.js",
-    "runtime-main.js.map": "/static/js/runtime-main.160a5205.js.map",
-    "static/js/2.33fba700.chunk.js": "/static/js/2.33fba700.chunk.js",
-    "static/js/2.33fba700.chunk.js.map": "/static/js/2.33fba700.chunk.js.map",
-    "static/js/3.a0b6be0d.chunk.js": "/static/js/3.a0b6be0d.chunk.js",
-    "static/js/3.a0b6be0d.chunk.js.map": "/static/js/3.a0b6be0d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.33fba700.chunk.js.LICENSE.txt": "/static/js/2.33fba700.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/outerbounds_brendan/static/css/main.a617e044.chunk.css",
+    "main.js": "/outerbounds_brendan/static/js/main.a63004a2.chunk.js",
+    "main.js.map": "/outerbounds_brendan/static/js/main.a63004a2.chunk.js.map",
+    "runtime-main.js": "/outerbounds_brendan/static/js/runtime-main.652500d2.js",
+    "runtime-main.js.map": "/outerbounds_brendan/static/js/runtime-main.652500d2.js.map",
+    "static/js/2.33fba700.chunk.js": "/outerbounds_brendan/static/js/2.33fba700.chunk.js",
+    "static/js/2.33fba700.chunk.js.map": "/outerbounds_brendan/static/js/2.33fba700.chunk.js.map",
+    "static/js/3.a0b6be0d.chunk.js": "/outerbounds_brendan/static/js/3.a0b6be0d.chunk.js",
+    "static/js/3.a0b6be0d.chunk.js.map": "/outerbounds_brendan/static/js/3.a0b6be0d.chunk.js.map",
+    "index.html": "/outerbounds_brendan/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/outerbounds_brendan/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.33fba700.chunk.js.LICENSE.txt": "/outerbounds_brendan/static/js/2.33fba700.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/outerbounds_brendan/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.160a5205.js",
+    "static/js/runtime-main.652500d2.js",
     "static/js/2.33fba700.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.a63004a2.chunk.js"

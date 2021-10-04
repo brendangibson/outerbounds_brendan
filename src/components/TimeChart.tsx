@@ -57,6 +57,7 @@ const TimeChart = ({ timeData }: Props) => {
   return (
     <Axes
       timeData={timeData}
+      start={start}
       totalWidth={totalWidth}
       height={currentTop + HEIGHT + 2 * VERTICAL_SPACING}
     >

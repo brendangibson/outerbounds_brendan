@@ -30,13 +30,14 @@ interface Props {
   timeData: TimeData;
   height: number;
   totalWidth: number;
+  start: number;
   children: React.ReactElement[];
 }
 
 /**
  * Renders the labels and axes for the time chart
  */
-const Axes = ({ timeData, height, totalWidth, children }: Props) => {
+const Axes = ({ timeData, height, totalWidth, start, children }: Props) => {
   const labels = new Set<number>();
 
   // Add time labels to a set to prevent duplicates
@@ -52,7 +53,7 @@ const Axes = ({ timeData, height, totalWidth, children }: Props) => {
     <Wrapper>
       <Labels>
         {labelsArray.map((label) => (
-          <Label left={(label / totalWidth) * 100 + "%"} key={label}>
+          <Label left={((label - start) / totalWidth) * 100 + "%"} key={label}>
             {label}
           </Label>
         ))}

@@ -1,0 +1,7 @@
+{
+  "tasks": [
+    { "task_id": "A", "start": 100, "duration": 10 },
+    { "task_id": "B", "start": 110, "duration": 37 },
+    { "task_id": "C", "start": 111, "duration": 120 }
+  ]
+}

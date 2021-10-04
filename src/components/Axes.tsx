@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { TimeData } from "../types/timeData";
-import { React } from "react";
+import React from "react";
 
 const Wrapper = styled.div`
   position: relative;
